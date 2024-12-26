@@ -1,0 +1,14 @@
+{
+  "name": "module10_websocket",
+  "version": "1.0.0",
+  "description": "URBAN module 10 websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Kislyuk",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
